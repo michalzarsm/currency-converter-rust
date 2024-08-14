@@ -2,7 +2,7 @@
 name = "currency-converter"
 version = "0.1.0"
 edition = "2021"
-authors = ["Exceed"]
+authors = ["michalzarsm"]
 
 [dependencies]
 anyhow = "1.0.81"
