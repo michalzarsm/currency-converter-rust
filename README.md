@@ -19,7 +19,7 @@ This CLI program allows you to view real-time currency exchange rates and conver
 - Use command ```key set <API_KEY>``` and replace ```<API_KEY>``` with the key from ExchangeRate-API dashboard
 ## Installation
 - Install [Rust](https://www.rust-lang.org/tools/install)
-- Clone the repository using ```git clone https://github.com/exceedxo/currency-converter```
+- Clone the repository using ```git clone https://github.com/michalzarsm/currency-converter-rust```
 - Go into the created directory and run the command: ```cargo run``` or ```cargo run --release``` for the release build
 ## Usage
 ### Available commands
